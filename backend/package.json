@@ -1,0 +1,21 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": "git+https://github.com/samuksilv/push-notifications-example.git",
+  "author": "samuel carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuksilv/push-notifications-example/issues"
+  },
+  "homepage": "https://github.com/samuksilv/push-notifications-example#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "web-push": "^3.4.4"
+  }
+}
